@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cc98e92-cc47-4a83-bcc3-9361d375cd73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/src/main/java/app/ccb/domain/dtos/json_seed/EmployeeSeedDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/src/main/java/app/ccb/domain/dtos/json_seed/EmployeeSeedDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/src/main/java/app/ccb/domain/entities/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/src/main/java/app/ccb/domain/entities/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/src/main/java/app/ccb/repositories/CardRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/src/main/java/app/ccb/repositories/CardRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/src/main/java/app/ccb/repositories/ClientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/src/main/java/app/ccb/repositories/ClientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/src/main/java/app/ccb/repositories/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/src/main/java/app/ccb/repositories/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/src/main/java/app/ccb/services/ClientServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/src/main/java/app/ccb/services/ClientServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/src/main/java/app/ccb/services/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EXAM PREP 2/ColonialCouncilBank/src/main/java/app/ccb/services/EmployeeServiceImpl.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="persons: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="persons: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="phone_numbers: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/terminal/Terminal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://92c3817c-9a97-4c6e-81af-c7b3867b887a/schema/persons/table/addresses">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="15dcc506-0a93-4492-b8d2-9e9136a0c405">
+              <filtering />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://92c3817c-9a97-4c6e-81af-c7b3867b887a/schema/persons/table/persons">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="15dcc506-0a93-4492-b8d2-9e9136a0c405">
+              <filtering />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://92c3817c-9a97-4c6e-81af-c7b3867b887a/schema/persons/table/phone_numbers">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="15dcc506-0a93-4492-b8d2-9e9136a0c405">
+              <filtering />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/domain/model/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="68" column="10" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/domain/model/PhoneNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>create</find>
+      <find>OneTo</find>
+    </findStrings>
+    <dirStrings>
+      <dir>G:\SoftUni\DB Modules\Java\DB 13-05-19\Hibernate\Spring-Projects\JSON PROCESSING\intro_to_json\src\main\resources</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/app/repository/PersonRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/person.json" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/app/service/PersonService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/service/impl/PersonServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/domain/dto/AddressDto.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/92c3817c-9a97-4c6e-81af-c7b3867b887a/console_1.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/92c3817c-9a97-4c6e-81af-c7b3867b887a/console_3.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/app/domain/model/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/domain/dto/PersonDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/domain/dto/PhoneNumberDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/terminal/Terminal.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/dataSources.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="people" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro_to_json" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="people" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro_to_json" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="people" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro_to_json" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="people" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro_to_json" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="people" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro_to_json" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="people" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro_to_json" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="people" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro_to_json" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="people" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro_to_json" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="people" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro_to_json" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="people" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro_to_json" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="people" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro_to_json" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="people" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro_to_json" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="terminal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="people" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro_to_json" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="database.data.extractors.current.id" value="SQL Inserts" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../15- SPRING DATA AUTO MAPPING OBJECTS/old_instance_springbootdemo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="people" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="app.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLScriptSettings">
+    <option name="matrix">
+      <map>
+        <entry key="MYSQL.CreateComplete" value="ConstraintContext=CONSTRAINT_AFTER_TABLE" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cc98e92-cc47-4a83-bcc3-9361d375cd73" name="Default Changelist" comment="" />
+      <created>1562491085378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562491085378</updated>
+      <workItem from="1562491086617" duration="15354000" />
+      <workItem from="1563569008550" duration="125000" />
+    </task>
+    <task id="LOCAL-00001" summary="Project Update Structure">
+      <created>1562492743834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562492743834</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update Structure">
+      <created>1562494844820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562494844820</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Source Code Updates">
+      <created>1562507503005</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562507503005</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Source Code Updates">
+      <created>1562507671510</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562507671510</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15479000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14492753" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32998884" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32998884" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32998884" />
+      <window_info anchor="bottom" id="SQL Generator" order="15" weight="0.32998884" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.11247335" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project Update Structure" />
+    <MESSAGE value="Update Structure" />
+    <MESSAGE value="Source Code Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Source Code Updates" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/92c3817c-9a97-4c6e-81af-c7b3867b887a/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/com/google/gson/TypeAdapterFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/com/google/gson/Gson.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="83" column="4" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3388#3669#0" />
+            <element signature="e#3675#8293#0" />
+            <element signature="e#8705#9576#0" />
+            <element signature="class#8873:9569" />
+            <element signature="method#read#0;class#8873:9569" />
+            <element signature="e#9013#9100#1" />
+            <element signature="e#9106#9169#1" />
+            <element signature="method#write#0;class#8873:9569" />
+            <element signature="e#9301#9357#1" />
+            <element signature="e#9363#9545#1" />
+            <element signature="e#9582#10461#0" />
+            <element signature="class#9748:10454" />
+            <element signature="method#read#0;class#9748:10454" />
+            <element signature="e#9887#9974#1" />
+            <element signature="e#9980#10050#1" />
+            <element signature="method#write#0;class#9748:10454" />
+            <element signature="e#10182#10238#1" />
+            <element signature="e#10244#10430#1" />
+            <element signature="e#10467#10801#0" />
+            <element signature="e#10580#10795#1" />
+            <element signature="e#10807#11592#0" />
+            <element signature="class#11005:11585" />
+            <element signature="method#read#0;class#11005:11585" />
+            <element signature="e#11145#11232#1" />
+            <element signature="e#11238#11299#1" />
+            <element signature="method#write#0;class#11005:11585" />
+            <element signature="e#11431#11487#1" />
+            <element signature="e#11493#11561#1" />
+            <element signature="e#11598#12129#0" />
+            <element signature="class#11716:12110" />
+            <element signature="method#write#0;class#11716:12110" />
+            <element signature="method#read#0;class#11716:12110" />
+            <element signature="e#12135#13309#0" />
+            <element signature="class#12263:13290" />
+            <element signature="method#write#0;class#12263:13290" />
+            <element signature="e#12514#12591#1" />
+            <element signature="method#read#0;class#12263:13290" />
+            <element signature="e#12837#12970#1" />
+            <element signature="e#13163#13235#1" />
+            <element signature="e#13315#15220#0" />
+            <element signature="e#13513#13551#1" />
+            <element signature="e#13557#15214#1" />
+            <element signature="e#13746#13902#1" />
+            <element signature="e#14047#14098#1" />
+            <element signature="e#14104#15204#1" />
+            <element signature="e#14126#14987#0" />
+            <element signature="e#14397#14746#1" />
+            <element signature="e#14444#14573#1" />
+            <element signature="e#14996#15190#0" />
+            <element signature="e#15103#15171#1" />
+            <element signature="e#15226#16060#0" />
+            <element signature="e#15369#15428#1" />
+            <element signature="e#15551#15976#1" />
+            <element signature="e#15659#15777#1" />
+            <element signature="e#15702#15763#1" />
+            <element signature="e#15783#15966#1" />
+            <element signature="e#15895#15952#1" />
+            <element signature="e#16184#16335#0" />
+            <element signature="e#16341#16546#0" />
+            <element signature="e#16552#16715#0" />
+            <element signature="e#16721#16918#0" />
+            <element signature="e#16924#17202#0" />
+            <element signature="e#17024#17101#1" />
+            <element signature="e#17107#17195#1" />
+            <element signature="e#17208#17556#0" />
+            <element signature="e#17311#17468#0" />
+            <element signature="e#17494#17550#0" />
+            <element signature="e#17562#18484#0" />
+            <element signature="e#18037#18088#0" />
+            <element signature="e#18115#18172#0" />
+            <element signature="e#18202#18312#0" />
+            <element signature="e#18321#18477#0" />
+            <element signature="e#18490#18694#0" />
+            <element signature="e#18700#19042#0" />
+            <element signature="e#18800#18954#0" />
+            <element signature="e#18980#19036#0" />
+            <element signature="e#19048#19442#0" />
+            <element signature="e#19160#19207#1" />
+            <element signature="e#19298#19349#1" />
+            <element signature="e#19448#19630#0" />
+            <element signature="e#19636#20487#0" />
+            <element signature="e#20032#20091#0" />
+            <element signature="e#20118#20175#0" />
+            <element signature="e#20205#20315#0" />
+            <element signature="e#20324#20480#0" />
+            <element signature="e#20493#20705#0" />
+            <element signature="e#20711#21028#0" />
+            <element signature="e#20815#20851#1" />
+            <element signature="e#20857#21022#1" />
+            <element signature="e#21034#21382#0" />
+            <element signature="e#21388#21675#0" />
+            <element signature="e#21681#22136#0" />
+            <element signature="e#21768#21951#0" />
+            <element signature="e#21842#21941#1" />
+            <element signature="e#21988#22048#0" />
+            <element signature="e#22074#22130#0" />
+            <element signature="e#22142#23385#0" />
+            <element signature="e#22403#23287#0" />
+            <element signature="e#22421#22743#0" />
+            <element signature="e#22771#22894#0" />
+            <element signature="e#22803#22880#1" />
+            <element signature="e#22931#23000#0" />
+            <element signature="e#23027#23096#0" />
+            <element signature="e#23126#23244#0" />
+            <element signature="e#23296#23350#0" />
+            <element signature="e#23391#23613#0" />
+            <element signature="e#23619#23814#0" />
+            <element signature="e#23820#24001#0" />
+            <element signature="e#24007#24893#0" />
+            <element signature="e#24116#24147#0" />
+            <element signature="e#24157#24385#0" />
+            <element signature="e#24250#24309#1" />
+            <element signature="e#24315#24375#1" />
+            <element signature="e#24395#24628#0" />
+            <element signature="e#24484#24550#1" />
+            <element signature="e#24556#24618#1" />
+            <element signature="e#24638#24887#0" />
+            <element signature="e#24741#24807#1" />
+            <element signature="e#24813#24877#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.9.RELEASE/spring-data-commons-2.1.9.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/repository/PersonRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#72#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/service/PersonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/domain/model/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/person.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/service/impl/PersonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/92c3817c-9a97-4c6e-81af-c7b3867b887a/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/92c3817c-9a97-4c6e-81af-c7b3867b887a/console_2.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://92c3817c-9a97-4c6e-81af-c7b3867b887a/schema/persons/table/persons.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/people.json" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/92c3817c-9a97-4c6e-81af-c7b3867b887a/console_3.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/modelmapper/modelmapper/2.3.5/modelmapper-2.3.5.jar!/org/modelmapper/ModelMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/domain/dto/PhoneNumberDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/domain/dto/AddressDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/domain/dto/PersonDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/terminal/Terminal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://92c3817c-9a97-4c6e-81af-c7b3867b887a/schema/persons/table/addresses">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="15dcc506-0a93-4492-b8d2-9e9136a0c405">
+          <filtering />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://92c3817c-9a97-4c6e-81af-c7b3867b887a/schema/persons/table/persons">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="15dcc506-0a93-4492-b8d2-9e9136a0c405">
+          <filtering />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://92c3817c-9a97-4c6e-81af-c7b3867b887a/schema/persons/table/phone_numbers">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="15dcc506-0a93-4492-b8d2-9e9136a0c405">
+          <filtering />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/domain/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="68" column="10" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/domain/model/PhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

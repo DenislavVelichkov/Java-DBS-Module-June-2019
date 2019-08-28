@@ -1,0 +1,1432 @@
+[
+  {
+    "car": {
+      "Make": "Nissan",
+      "Model": "Altima",
+      "TravelledDistance": 92233707
+    },
+    "customer": {
+      "customerName": "Emmitt Benally",
+      "discount": 0.25,
+      "price": 1333.77,
+      "priceWithDiscount": 1330.44
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "M Roadster E85",
+      "TravelledDistance": 92233720365807
+    },
+    "customer": {
+      "customerName": "Emmitt Benally",
+      "discount": 0.35,
+      "price": 2839.29,
+      "priceWithDiscount": 2829.35
+    }
+  },
+  {
+    "car": {
+      "Make": "Nissan",
+      "Model": "Altima",
+      "TravelledDistance": 9224775807
+    },
+    "customer": {
+      "customerName": "Emmitt Benally",
+      "discount": 0.15,
+      "price": 4428.34,
+      "priceWithDiscount": 4421.7
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "500 (2007) Abarth 695 Tributo Maserati",
+      "TravelledDistance": 922337205807
+    },
+    "customer": {
+      "customerName": "Emmitt Benally",
+      "discount": 0.15,
+      "price": 2250.0,
+      "priceWithDiscount": 2246.62
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "Panda 4x4",
+      "TravelledDistance": 922036854775807
+    },
+    "customer": {
+      "customerName": "Emmitt Benally",
+      "discount": 0.25,
+      "price": 1093.66,
+      "priceWithDiscount": 1090.93
+    }
+  },
+  {
+    "car": {
+      "Make": "Nissan",
+      "Model": "Altima",
+      "TravelledDistance": 9224775807
+    },
+    "customer": {
+      "customerName": "Emmitt Benally",
+      "discount": 0.35,
+      "price": 4428.34,
+      "priceWithDiscount": 4412.84
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "Panda 4x4",
+      "TravelledDistance": 92233736854775808
+    },
+    "customer": {
+      "customerName": "Natalie Poli",
+      "discount": 0.3,
+      "price": 1747.86,
+      "priceWithDiscount": 1742.62
+    }
+  },
+  {
+    "car": {
+      "Make": "Skoda",
+      "Model": "Rapid Spaceback",
+      "TravelledDistance": 685477580
+    },
+    "customer": {
+      "customerName": "Natalie Poli",
+      "discount": 0.05,
+      "price": 6719.44,
+      "priceWithDiscount": 6716.08
+    }
+  },
+  {
+    "car": {
+      "Make": "Nissan",
+      "Model": "Altima",
+      "TravelledDistance": 213647
+    },
+    "customer": {
+      "customerName": "Natalie Poli",
+      "discount": 0.1,
+      "price": 8014.18,
+      "priceWithDiscount": 8006.17
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "500L",
+      "TravelledDistance": 922337203675807
+    },
+    "customer": {
+      "customerName": "Marcelle Griego",
+      "discount": 0.55,
+      "price": 5706.59,
+      "priceWithDiscount": 5675.2
+    }
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "Pinto",
+      "TravelledDistance": 9854775807
+    },
+    "customer": {
+      "customerName": "Marcelle Griego",
+      "discount": 0.15,
+      "price": 4235.17,
+      "priceWithDiscount": 4228.82
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "Freemont",
+      "TravelledDistance": 21473647
+    },
+    "customer": {
+      "customerName": "Marcelle Griego",
+      "discount": 0.45,
+      "price": 2992.16,
+      "priceWithDiscount": 2978.7
+    }
+  },
+  {
+    "car": {
+      "Make": "Great Wall",
+      "Model": "H2",
+      "TravelledDistance": 9236854775807
+    },
+    "customer": {
+      "customerName": "Marcelle Griego",
+      "discount": 0.45,
+      "price": 5721.76,
+      "priceWithDiscount": 5696.01
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "Panda",
+      "TravelledDistance": 21474837
+    },
+    "customer": {
+      "customerName": "Marcelle Griego",
+      "discount": 0.45,
+      "price": 5641.12,
+      "priceWithDiscount": 5615.73
+    }
+  },
+  {
+    "car": {
+      "Make": "Citroen",
+      "Model": "C5",
+      "TravelledDistance": 922334775807
+    },
+    "customer": {
+      "customerName": "Marcelle Griego",
+      "discount": 0.35,
+      "price": 3752.79,
+      "priceWithDiscount": 3739.66
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "F04",
+      "TravelledDistance": 2143647
+    },
+    "customer": {
+      "customerName": "Zada Attwood",
+      "discount": 0.45,
+      "price": 5374.19,
+      "priceWithDiscount": 5350.01
+    }
+  },
+  {
+    "car": {
+      "Make": "Mercedes",
+      "Model": "A 160",
+      "TravelledDistance": 9223372036
+    },
+    "customer": {
+      "customerName": "Zada Attwood",
+      "discount": 0.1,
+      "price": 4629.56,
+      "priceWithDiscount": 4624.93
+    }
+  },
+  {
+    "car": {
+      "Make": "Opel",
+      "Model": "Astra",
+      "TravelledDistance": 9223372036854775807
+    },
+    "customer": {
+      "customerName": "Zada Attwood",
+      "discount": 0.45,
+      "price": 3412.78,
+      "priceWithDiscount": 3397.42
+    }
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "Pinto",
+      "TravelledDistance": 922337807
+    },
+    "customer": {
+      "customerName": "Hai Everton",
+      "discount": 0.2,
+      "price": 5356.03,
+      "priceWithDiscount": 5345.32
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Prius",
+      "TravelledDistance": 283647
+    },
+    "customer": {
+      "customerName": "Hai Everton",
+      "discount": 0.55,
+      "price": 13900.17,
+      "priceWithDiscount": 13823.72
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "F04",
+      "TravelledDistance": 100000
+    },
+    "customer": {
+      "customerName": "Hai Everton",
+      "discount": 0.1,
+      "price": 5708.72,
+      "priceWithDiscount": 5703.01
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "M6 E63",
+      "TravelledDistance": 92235807
+    },
+    "customer": {
+      "customerName": "Hai Everton",
+      "discount": 0.25,
+      "price": 6974.41,
+      "priceWithDiscount": 6956.97
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "X6 M",
+      "TravelledDistance": 483647
+    },
+    "customer": {
+      "customerName": "Lino Subia",
+      "discount": 0.5,
+      "price": 3205.61,
+      "priceWithDiscount": 3189.58
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "Freemont",
+      "TravelledDistance": 92233685477
+    },
+    "customer": {
+      "customerName": "Lino Subia",
+      "discount": 0.5,
+      "price": 3204.93,
+      "priceWithDiscount": 3188.91
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Tacoma",
+      "TravelledDistance": 96854775807
+    },
+    "customer": {
+      "customerName": "Lino Subia",
+      "discount": 0.4,
+      "price": 4319.09,
+      "priceWithDiscount": 4301.81
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "Freemont",
+      "TravelledDistance": 214647
+    },
+    "customer": {
+      "customerName": "Lino Subia",
+      "discount": 0.4,
+      "price": 2664.81,
+      "priceWithDiscount": 2654.15
+    }
+  },
+  {
+    "car": {
+      "Make": "Opel",
+      "Model": "Omega",
+      "TravelledDistance": 9223336854775808
+    },
+    "customer": {
+      "customerName": "Lino Subia",
+      "discount": 0.3,
+      "price": 3067.08,
+      "priceWithDiscount": 3057.88
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "M Roadster E85",
+      "TravelledDistance": 92233720365807
+    },
+    "customer": {
+      "customerName": "Lino Subia",
+      "discount": 0.1,
+      "price": 2839.29,
+      "priceWithDiscount": 2836.45
+    }
+  },
+  {
+    "car": {
+      "Make": "Alfa Romeo",
+      "Model": "75",
+      "TravelledDistance": 9775807
+    },
+    "customer": {
+      "customerName": "Lino Subia",
+      "discount": 0.3,
+      "price": 2774.1,
+      "priceWithDiscount": 2765.78
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Tacoma",
+      "TravelledDistance": 247
+    },
+    "customer": {
+      "customerName": "Lino Subia",
+      "discount": 0.5,
+      "price": 2829.52,
+      "priceWithDiscount": 2815.37
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Prius",
+      "TravelledDistance": 922335807
+    },
+    "customer": {
+      "customerName": "Rico Peer",
+      "discount": 0.55,
+      "price": 1905.17,
+      "priceWithDiscount": 1894.69
+    }
+  },
+  {
+    "car": {
+      "Make": "Nissan",
+      "Model": "Altima",
+      "TravelledDistance": 9224775807
+    },
+    "customer": {
+      "customerName": "Rico Peer",
+      "discount": 0.45,
+      "price": 4428.34,
+      "priceWithDiscount": 4408.41
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Prius",
+      "TravelledDistance": 283647
+    },
+    "customer": {
+      "customerName": "Rico Peer",
+      "discount": 0.35,
+      "price": 13900.17,
+      "priceWithDiscount": 13851.52
+    }
+  },
+  {
+    "car": {
+      "Make": "Renault",
+      "Model": "Clio IV",
+      "TravelledDistance": 92234775807
+    },
+    "customer": {
+      "customerName": "Rico Peer",
+      "discount": 0.15,
+      "price": 8488.8,
+      "priceWithDiscount": 8476.07
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "500L",
+      "TravelledDistance": 2147647
+    },
+    "customer": {
+      "customerName": "Teddy Hobby",
+      "discount": 0.45,
+      "price": 8169.77,
+      "priceWithDiscount": 8133.01
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Prius",
+      "TravelledDistance": 922337203685
+    },
+    "customer": {
+      "customerName": "Teddy Hobby",
+      "discount": 0.2,
+      "price": 3891.82,
+      "priceWithDiscount": 3884.04
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Yaris",
+      "TravelledDistance": 21477
+    },
+    "customer": {
+      "customerName": "Teddy Hobby",
+      "discount": 0.2,
+      "price": 1464.85,
+      "priceWithDiscount": 1461.92
+    }
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "Ranger",
+      "TravelledDistance": 9223372007
+    },
+    "customer": {
+      "customerName": "Teddy Hobby",
+      "discount": 0.55,
+      "price": 3434.18,
+      "priceWithDiscount": 3415.29
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "Freemont",
+      "TravelledDistance": 214647
+    },
+    "customer": {
+      "customerName": "Johnette Derryberry",
+      "discount": 0.2,
+      "price": 2664.81,
+      "priceWithDiscount": 2659.48
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "Freemont",
+      "TravelledDistance": 21473647
+    },
+    "customer": {
+      "customerName": "Johnette Derryberry",
+      "discount": 0.45,
+      "price": 2992.16,
+      "priceWithDiscount": 2978.7
+    }
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "Torino",
+      "TravelledDistance": 21474647
+    },
+    "customer": {
+      "customerName": "Johnette Derryberry",
+      "discount": 0.15,
+      "price": 10044.04,
+      "priceWithDiscount": 10028.97
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "500L",
+      "TravelledDistance": 922337203675807
+    },
+    "customer": {
+      "customerName": "Johnette Derryberry",
+      "discount": 0.1,
+      "price": 5706.59,
+      "priceWithDiscount": 5700.88
+    }
+  },
+  {
+    "car": {
+      "Make": "Renault",
+      "Model": "Alaskan",
+      "TravelledDistance": 92233720375807
+    },
+    "customer": {
+      "customerName": "Johnette Derryberry",
+      "discount": 0.2,
+      "price": 4847.71,
+      "priceWithDiscount": 4838.01
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "Panda 4x4",
+      "TravelledDistance": 92233736854775808
+    },
+    "customer": {
+      "customerName": "Audrea Cardinal",
+      "discount": 0.4,
+      "price": 1747.86,
+      "priceWithDiscount": 1740.87
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "Panda",
+      "TravelledDistance": 92233854775807
+    },
+    "customer": {
+      "customerName": "Audrea Cardinal",
+      "discount": 0.1,
+      "price": 6542.78,
+      "priceWithDiscount": 6536.24
+    }
+  },
+  {
+    "car": {
+      "Make": "Ferrari",
+      "Model": "Daytona",
+      "TravelledDistance": 922337275807
+    },
+    "customer": {
+      "customerName": "Audrea Cardinal",
+      "discount": 0.2,
+      "price": 2618.53,
+      "priceWithDiscount": 2613.29
+    }
+  },
+  {
+    "car": {
+      "Make": "Peugeot",
+      "Model": "407",
+      "TravelledDistance": 854775807
+    },
+    "customer": {
+      "customerName": "Audrea Cardinal",
+      "discount": 0.4,
+      "price": 1946.88,
+      "priceWithDiscount": 1939.09
+    }
+  },
+  {
+    "car": {
+      "Make": "Great Wall",
+      "Model": "H2",
+      "TravelledDistance": 9236854775807
+    },
+    "customer": {
+      "customerName": "Audrea Cardinal",
+      "discount": 0.3,
+      "price": 5721.76,
+      "priceWithDiscount": 5704.59
+    }
+  },
+  {
+    "car": {
+      "Make": "Citroen",
+      "Model": "C1",
+      "TravelledDistance": 2483647
+    },
+    "customer": {
+      "customerName": "Audrea Cardinal",
+      "discount": 0.1,
+      "price": 978.16,
+      "priceWithDiscount": 977.18
+    }
+  },
+  {
+    "car": {
+      "Make": "Mercedes",
+      "Model": "A 160",
+      "TravelledDistance": 9223372036
+    },
+    "customer": {
+      "customerName": "Audrea Cardinal",
+      "discount": 0.4,
+      "price": 4629.56,
+      "priceWithDiscount": 4611.04
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "X6 M",
+      "TravelledDistance": 2036854775807
+    },
+    "customer": {
+      "customerName": "Francis Mckim",
+      "discount": 0.15,
+      "price": 6917.32,
+      "priceWithDiscount": 6906.94
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Prius",
+      "TravelledDistance": 9223372037
+    },
+    "customer": {
+      "customerName": "Francis Mckim",
+      "discount": 0.2,
+      "price": 3727.07,
+      "priceWithDiscount": 3719.62
+    }
+  },
+  {
+    "car": {
+      "Make": "Citroen",
+      "Model": "C5",
+      "TravelledDistance": 922334775807
+    },
+    "customer": {
+      "customerName": "Francis Mckim",
+      "discount": 0.2,
+      "price": 3752.79,
+      "priceWithDiscount": 3745.28
+    }
+  },
+  {
+    "car": {
+      "Make": "Skoda",
+      "Model": "Fabia",
+      "TravelledDistance": 92233720368807
+    },
+    "customer": {
+      "customerName": "Carole Witman",
+      "discount": 0.1,
+      "price": 7994.87,
+      "priceWithDiscount": 7986.88
+    }
+  },
+  {
+    "car": {
+      "Make": "Lamborghini",
+      "Model": "Murciélago",
+      "TravelledDistance": 214783647
+    },
+    "customer": {
+      "customerName": "Carole Witman",
+      "discount": 0.15,
+      "price": 4822.24,
+      "priceWithDiscount": 4815.01
+    }
+  },
+  {
+    "car": {
+      "Make": "Mercedes",
+      "Model": "W212",
+      "TravelledDistance": 54775807
+    },
+    "customer": {
+      "customerName": "Carole Witman",
+      "discount": 0.15,
+      "price": 2569.71,
+      "priceWithDiscount": 2565.86
+    }
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "Pinto",
+      "TravelledDistance": 922337807
+    },
+    "customer": {
+      "customerName": "Carole Witman",
+      "discount": 0.2,
+      "price": 5356.03,
+      "priceWithDiscount": 5345.32
+    }
+  },
+  {
+    "car": {
+      "Make": "Alfa Romeo",
+      "Model": "Alfetta",
+      "TravelledDistance": 92233720775807
+    },
+    "customer": {
+      "customerName": "Carole Witman",
+      "discount": 0.15,
+      "price": 6400.51,
+      "priceWithDiscount": 6390.91
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Tacoma",
+      "TravelledDistance": 94775807
+    },
+    "customer": {
+      "customerName": "Oren Perlman",
+      "discount": 0.35,
+      "price": 5131.82,
+      "priceWithDiscount": 5113.86
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Yaris",
+      "TravelledDistance": 9207
+    },
+    "customer": {
+      "customerName": "Brett Brickley",
+      "discount": 0.45,
+      "price": 2464.54,
+      "priceWithDiscount": 2453.45
+    }
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "Fiesta",
+      "TravelledDistance": 922337775807
+    },
+    "customer": {
+      "customerName": "Brett Brickley",
+      "discount": 0.45,
+      "price": 820.96,
+      "priceWithDiscount": 817.27
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Yaris",
+      "TravelledDistance": 9207
+    },
+    "customer": {
+      "customerName": "Kristian Engberg",
+      "discount": 0.3,
+      "price": 2464.54,
+      "priceWithDiscount": 2457.15
+    }
+  },
+  {
+    "car": {
+      "Make": "Mercedes",
+      "Model": "A 160",
+      "TravelledDistance": 9223372036
+    },
+    "customer": {
+      "customerName": "Kristian Engberg",
+      "discount": 0.2,
+      "price": 4629.56,
+      "priceWithDiscount": 4620.3
+    }
+  },
+  {
+    "car": {
+      "Make": "Peugeot",
+      "Model": "405",
+      "TravelledDistance": 922854775807
+    },
+    "customer": {
+      "customerName": "Kristian Engberg",
+      "discount": 0.1,
+      "price": 3616.91,
+      "priceWithDiscount": 3613.29
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "Panda 4x4 Antarctica",
+      "TravelledDistance": 21483647
+    },
+    "customer": {
+      "customerName": "Kristian Engberg",
+      "discount": 0.2,
+      "price": 2126.59,
+      "priceWithDiscount": 2122.34
+    }
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "Fiesta",
+      "TravelledDistance": 922337775807
+    },
+    "customer": {
+      "customerName": "Carri Knapik",
+      "discount": 0.15,
+      "price": 820.96,
+      "priceWithDiscount": 819.73
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Yaris",
+      "TravelledDistance": 9207
+    },
+    "customer": {
+      "customerName": "Carri Knapik",
+      "discount": 0.2,
+      "price": 2464.54,
+      "priceWithDiscount": 2459.61
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "Freemont",
+      "TravelledDistance": 214647
+    },
+    "customer": {
+      "customerName": "Carri Knapik",
+      "discount": 0.45,
+      "price": 2664.81,
+      "priceWithDiscount": 2652.82
+    }
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "Torino",
+      "TravelledDistance": 217
+    },
+    "customer": {
+      "customerName": "Rema Revelle",
+      "discount": 0.45,
+      "price": 1405.69,
+      "priceWithDiscount": 1399.36
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Tacoma",
+      "TravelledDistance": 247
+    },
+    "customer": {
+      "customerName": "Rema Revelle",
+      "discount": 0.55,
+      "price": 2829.52,
+      "priceWithDiscount": 2813.96
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "500 (2007) Abarth 695 Tributo Maserati",
+      "TravelledDistance": 922337205807
+    },
+    "customer": {
+      "customerName": "Rema Revelle",
+      "discount": 0.25,
+      "price": 2250.0,
+      "priceWithDiscount": 2244.38
+    }
+  },
+  {
+    "car": {
+      "Make": "Mercedes",
+      "Model": "W212",
+      "TravelledDistance": 54775807
+    },
+    "customer": {
+      "customerName": "Rema Revelle",
+      "discount": 0.55,
+      "price": 2569.71,
+      "priceWithDiscount": 2555.58
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "Panda",
+      "TravelledDistance": 92233854775807
+    },
+    "customer": {
+      "customerName": "Rema Revelle",
+      "discount": 0.25,
+      "price": 6542.78,
+      "priceWithDiscount": 6526.42
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "M5 F10",
+      "TravelledDistance": 10
+    },
+    "customer": {
+      "customerName": "Taina Achenbach",
+      "discount": 0.15,
+      "price": 3633.04,
+      "priceWithDiscount": 3627.59
+    }
+  },
+  {
+    "car": {
+      "Make": "Opel",
+      "Model": "Astra",
+      "TravelledDistance": 922337203685807
+    },
+    "customer": {
+      "customerName": "Yvonne Mccalla",
+      "discount": 0.1,
+      "price": 2392.28,
+      "priceWithDiscount": 2389.89
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "500 (2007) Abarth 695 Tributo Maserati",
+      "TravelledDistance": 92236854775807
+    },
+    "customer": {
+      "customerName": "Yvonne Mccalla",
+      "discount": 0.25,
+      "price": 3964.79,
+      "priceWithDiscount": 3954.88
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Prius",
+      "TravelledDistance": 9223372037
+    },
+    "customer": {
+      "customerName": "Yvonne Mccalla",
+      "discount": 0.15,
+      "price": 3727.07,
+      "priceWithDiscount": 3721.48
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "M Roadster E85",
+      "TravelledDistance": 92233720365807
+    },
+    "customer": {
+      "customerName": "Yvonne Mccalla",
+      "discount": 0.2,
+      "price": 2839.29,
+      "priceWithDiscount": 2833.61
+    }
+  },
+  {
+    "car": {
+      "Make": "Mercedes",
+      "Model": "W212",
+      "TravelledDistance": 927254775807
+    },
+    "customer": {
+      "customerName": "Yvonne Mccalla",
+      "discount": 0.1,
+      "price": 4341.14,
+      "priceWithDiscount": 4336.8
+    }
+  },
+  {
+    "car": {
+      "Make": "Citroen",
+      "Model": "Berlingo",
+      "TravelledDistance": 922354775807
+    },
+    "customer": {
+      "customerName": "Nisha Markwell",
+      "discount": 0.4,
+      "price": 9534.53,
+      "priceWithDiscount": 9496.39
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "Panda 4x4 Antarctica",
+      "TravelledDistance": 2183647
+    },
+    "customer": {
+      "customerName": "Nisha Markwell",
+      "discount": 0.4,
+      "price": 5427.07,
+      "priceWithDiscount": 5405.36
+    }
+  },
+  {
+    "car": {
+      "Make": "Opel",
+      "Model": "Kadet",
+      "TravelledDistance": 21474847
+    },
+    "customer": {
+      "customerName": "Nisha Markwell",
+      "discount": 0.1,
+      "price": 2761.11,
+      "priceWithDiscount": 2758.35
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "M6 E63",
+      "TravelledDistance": 92235807
+    },
+    "customer": {
+      "customerName": "Cinthia Lasala",
+      "discount": 0.55,
+      "price": 6974.41,
+      "priceWithDiscount": 6936.05
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "E88",
+      "TravelledDistance": 200000
+    },
+    "customer": {
+      "customerName": "Cinthia Lasala",
+      "discount": 0.15,
+      "price": 3231.26,
+      "priceWithDiscount": 3226.41
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Tacoma",
+      "TravelledDistance": 247
+    },
+    "customer": {
+      "customerName": "Cinthia Lasala",
+      "discount": 0.25,
+      "price": 2829.52,
+      "priceWithDiscount": 2822.45
+    }
+  },
+  {
+    "car": {
+      "Make": "Rolls-Royce",
+      "Model": "Phantom Drophead Coupé",
+      "TravelledDistance": 9223372075807
+    },
+    "customer": {
+      "customerName": "Cinthia Lasala",
+      "discount": 0.55,
+      "price": 5358.7,
+      "priceWithDiscount": 5329.23
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Tacoma",
+      "TravelledDistance": 9225807
+    },
+    "customer": {
+      "customerName": "Cinthia Lasala",
+      "discount": 0.35,
+      "price": 6041.01,
+      "priceWithDiscount": 6019.87
+    }
+  },
+  {
+    "car": {
+      "Make": "Alfa Romeo",
+      "Model": "75",
+      "TravelledDistance": 72036854775807
+    },
+    "customer": {
+      "customerName": "Daniele Zarate",
+      "discount": 0.15,
+      "price": 3660.8,
+      "priceWithDiscount": 3655.31
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "F20",
+      "TravelledDistance": 83647
+    },
+    "customer": {
+      "customerName": "Daniele Zarate",
+      "discount": 0.1,
+      "price": 2455.02,
+      "priceWithDiscount": 2452.56
+    }
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "GT40",
+      "TravelledDistance": 92233775807
+    },
+    "customer": {
+      "customerName": "Daniele Zarate",
+      "discount": 0.15,
+      "price": 5895.62,
+      "priceWithDiscount": 5886.78
+    }
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Corolla",
+      "TravelledDistance": 9223854775807
+    },
+    "customer": {
+      "customerName": "Faustina Burgher",
+      "discount": 0.5,
+      "price": 2612.07,
+      "priceWithDiscount": 2599.01
+    }
+  },
+  {
+    "car": {
+      "Make": "Renault",
+      "Model": "Alaskan",
+      "TravelledDistance": 92233720375807
+    },
+    "customer": {
+      "customerName": "Faustina Burgher",
+      "discount": 0.4,
+      "price": 4847.71,
+      "priceWithDiscount": 4828.32
+    }
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "Torino",
+      "TravelledDistance": 217
+    },
+    "customer": {
+      "customerName": "Faustina Burgher",
+      "discount": 0.15,
+      "price": 1405.69,
+      "priceWithDiscount": 1403.58
+    }
+  },
+  {
+    "car": {
+      "Make": "Opel",
+      "Model": "Astra",
+      "TravelledDistance": 922336854775807
+    },
+    "customer": {
+      "customerName": "Jimmy Grossi",
+      "discount": 0.15,
+      "price": 3778.64,
+      "priceWithDiscount": 3772.97
+    }
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "Fiesta",
+      "TravelledDistance": 922375807
+    },
+    "customer": {
+      "customerName": "Sylvie Mcelravy",
+      "discount": 0.2,
+      "price": 3174.23,
+      "priceWithDiscount": 3167.88
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "500 (2007) Abarth 695 Tributo Maserati",
+      "TravelledDistance": 92236854775807
+    },
+    "customer": {
+      "customerName": "Sylvie Mcelravy",
+      "discount": 0.1,
+      "price": 3964.79,
+      "priceWithDiscount": 3960.83
+    }
+  },
+  {
+    "car": {
+      "Make": "Nissan",
+      "Model": "Altima",
+      "TravelledDistance": 9224775807
+    },
+    "customer": {
+      "customerName": "Sylvie Mcelravy",
+      "discount": 0.3,
+      "price": 4428.34,
+      "priceWithDiscount": 4415.05
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "M5 F10",
+      "TravelledDistance": 10
+    },
+    "customer": {
+      "customerName": "Sylvie Mcelravy",
+      "discount": 0.15,
+      "price": 3633.04,
+      "priceWithDiscount": 3627.59
+    }
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "500L",
+      "TravelledDistance": 922337204775807
+    },
+    "customer": {
+      "customerName": "Hipolito Lamoreaux",
+      "discount": 0.45,
+      "price": 3651.49,
+      "priceWithDiscount": 3635.06
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "M5 F10",
+      "TravelledDistance": 10
+    },
+    "customer": {
+      "customerName": "Hipolito Lamoreaux",
+      "discount": 0.1,
+      "price": 3633.04,
+      "priceWithDiscount": 3629.41
+    }
+  },
+  {
+    "car": {
+      "Make": "Nissan",
+      "Model": "Altima",
+      "TravelledDistance": 92233707
+    },
+    "customer": {
+      "customerName": "Hipolito Lamoreaux",
+      "discount": 0.45,
+      "price": 1333.77,
+      "priceWithDiscount": 1327.77
+    }
+  },
+  {
+    "car": {
+      "Make": "Opel",
+      "Model": "Omega",
+      "TravelledDistance": 9223336854775808
+    },
+    "customer": {
+      "customerName": "Hipolito Lamoreaux",
+      "discount": 0.35,
+      "price": 3067.08,
+      "priceWithDiscount": 3056.35
+    }
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "GT40",
+      "TravelledDistance": 92233775807
+    },
+    "customer": {
+      "customerName": "Hipolito Lamoreaux",
+      "discount": 0.25,
+      "price": 5895.62,
+      "priceWithDiscount": 5880.88
+    }
+  },
+  {
+    "car": {
+      "Make": "Citroen",
+      "Model": "C5",
+      "TravelledDistance": 922334775807
+    },
+    "customer": {
+      "customerName": "Garret Capron",
+      "discount": 0.5,
+      "price": 3752.79,
+      "priceWithDiscount": 3734.03
+    }
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "Torino",
+      "TravelledDistance": 217
+    },
+    "customer": {
+      "customerName": "Garret Capron",
+      "discount": 0.15,
+      "price": 1405.69,
+      "priceWithDiscount": 1403.58
+    }
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "Torino",
+      "TravelledDistance": 217
+    },
+    "customer": {
+      "customerName": "Donnetta Soliz",
+      "discount": 0.35,
+      "price": 1405.69,
+      "priceWithDiscount": 1400.77
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "F04",
+      "TravelledDistance": 2143647
+    },
+    "customer": {
+      "customerName": "Donnetta Soliz",
+      "discount": 0.45,
+      "price": 5374.19,
+      "priceWithDiscount": 5350.01
+    }
+  },
+  {
+    "car": {
+      "Make": "Nissan",
+      "Model": "Altima",
+      "TravelledDistance": 9224775807
+    },
+    "customer": {
+      "customerName": "Louann Holzworth",
+      "discount": 0.4,
+      "price": 4428.34,
+      "priceWithDiscount": 4410.63
+    }
+  },
+  {
+    "car": {
+      "Make": "Citroen",
+      "Model": "Elysée",
+      "TravelledDistance": 23336854775
+    },
+    "customer": {
+      "customerName": "Louann Holzworth",
+      "discount": 0.2,
+      "price": 6890.01,
+      "priceWithDiscount": 6876.23
+    }
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "M6 E63",
+      "TravelledDistance": 92235807
+    },
+    "customer": {
+      "customerName": "Louann Holzworth",
+      "discount": 0.4,
+      "price": 6974.41,
+      "priceWithDiscount": 6946.51
+    }
+  }
+]
