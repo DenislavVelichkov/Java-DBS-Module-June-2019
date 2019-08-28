@@ -38,7 +38,7 @@ To start the project, you need a simple Java IDE: IntelliJ, Eclipse, etc.
 ## Built With
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The IDE used.
-* [Spring](https://spring.io/) - Spring Framework used.* 
+* [Spring](https://spring.io/) - Spring Framework used.
 * [Hibernate](https://www.jetbrains.com/idea/) - Hibernate ORM used.
 
 ## Authors
