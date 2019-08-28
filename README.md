@@ -33,7 +33,9 @@
 
 ## Getting Started
 
-To start the project, you need a simple Java IDE: IntelliJ, Eclipse, etc.
+* To start some of the projects, you need Java IDE: IntelliJ, Eclipse, etc.
+* Import the project with Maven and overwrite the changes.
+* Configure JDBC Driver, start your MySQL server and set your database password.
 
 ## Built With
 
