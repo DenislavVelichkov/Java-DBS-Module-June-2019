@@ -46,15 +46,14 @@ public class TeamServiceImpl implements TeamService {
     for (TeamSeedDto teamDto : teamRootSeedDto.getTeamSeedDto()) {
       Team team = this.teamRepository.findAllByName(teamDto.getName())
                       .orElse(null);
-      if (this.validator.isValid(teamDto) || team != null) {
+      if (this.validator.isValid(teamDto)
+              || team != null && team.getName().equals(teamDto.getName())) {
         System.out.println("Invalid team!");
-        
         this.validator.violations(teamDto)
             .forEach(violation -> System.out.println(violation.getMessage()));
-        
+  
         continue;
       }
-      
       
       team = this.modelMapper.map(teamDto, Team.class);
       
