@@ -56,11 +56,6 @@ public class TeamServiceImpl implements TeamService {
       }
       
       team = this.modelMapper.map(teamDto, Team.class);
-      
-      if (teamRepository.findAllByName(team.getName()).isPresent()) {
-        continue;
-      }
-      
       this.teamRepository.saveAndFlush(team);
       
       sb.append(String.format("Successfully imported team - %s",
