@@ -10,36 +10,37 @@ import softuni.exam.util.*;
 import javax.validation.Validation;
 import javax.validation.Validator;
 
+
 @Configuration
 public class ApplicationBeanConfiguration {
-
-    @Bean
-    public FileUtil fileUtil() {
-        return new FileUtilImpl();
-    }
-
-    @Bean
-    public Gson gson() {
-        return new GsonBuilder().excludeFieldsWithoutExposeAnnotation().setPrettyPrinting().create();
-    }
-
-    @Bean
-    public Validator validator() {
-        return Validation.buildDefaultValidatorFactory().getValidator();
-    }
-
-    @Bean
-    public ValidatorUtil validationUtil() {
-        return new ValidatorUtilImpl(validator());
-    }
-
-    @Bean
-    public ModelMapper modelMapper() {
-        return new ModelMapper();
-    }
-    
-    @Bean
-    public XmlParser xmlParser() {
-        return new XmlParserImpl();
-    }
+  
+  @Bean
+  public FileUtil fileUtil() {
+    return new FileUtilImpl();
+  }
+  
+  @Bean
+  public Gson gson() {
+    return new GsonBuilder().excludeFieldsWithoutExposeAnnotation().setPrettyPrinting().create();
+  }
+  
+  @Bean
+  public Validator validator() {
+    return Validation.buildDefaultValidatorFactory().getValidator();
+  }
+  
+  @Bean
+  public ValidatorUtil validationUtil() {
+    return new ValidatorUtilImpl(validator());
+  }
+  
+  @Bean
+  public ModelMapper modelMapper() {
+    return new ModelMapper();
+  }
+  
+  @Bean
+  public XmlParser xmlParser() {
+    return new XmlParserImpl();
+  }
 }
