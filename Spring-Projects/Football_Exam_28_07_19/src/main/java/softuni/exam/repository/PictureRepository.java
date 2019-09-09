@@ -7,6 +7,6 @@ import softuni.exam.domain.entities.Picture;
 import java.util.Optional;
 
 @Repository
-public interface PictureRepository  extends JpaRepository<Picture, Integer> {
-    Optional<Picture> findAllByUrl(String pictureUrl);
+public interface PictureRepository extends JpaRepository<Picture, Integer> {
+  Optional<Picture> findAllByUrl(String pictureUrl);
 }

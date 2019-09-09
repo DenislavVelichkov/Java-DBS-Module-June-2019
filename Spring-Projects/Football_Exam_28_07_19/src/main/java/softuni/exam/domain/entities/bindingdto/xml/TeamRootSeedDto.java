@@ -8,18 +8,18 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement(name = "teams")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class TeamRootSeedDto {
-    
-    @XmlElement(name = "team")
-    private TeamSeedDto[] teamSeedDto;
-    
-    public TeamRootSeedDto() {
-    }
-    
-    public TeamSeedDto[] getTeamSeedDto() {
-        return teamSeedDto;
-    }
-    
-    public void setTeamSeedDto(TeamSeedDto[] teamSeedDto) {
-        this.teamSeedDto = teamSeedDto;
-    }
+  
+  @XmlElement(name = "team")
+  private TeamSeedDto[] teamSeedDto;
+  
+  public TeamRootSeedDto() {
+  }
+  
+  public TeamSeedDto[] getTeamSeedDto() {
+    return teamSeedDto;
+  }
+  
+  public void setTeamSeedDto(TeamSeedDto[] teamSeedDto) {
+    this.teamSeedDto = teamSeedDto;
+  }
 }

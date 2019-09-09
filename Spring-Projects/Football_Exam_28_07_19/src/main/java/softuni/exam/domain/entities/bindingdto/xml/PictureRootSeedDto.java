@@ -8,18 +8,18 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement(name = "pictures")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class PictureRootSeedDto {
-    
-    @XmlElement(name = "picture")
-    private PictureSeedDto[] pictures;
-    
-    public PictureRootSeedDto() {
-    }
-    
-    public PictureSeedDto[] getPictures() {
-        return pictures;
-    }
-    
-    public void setPictures(PictureSeedDto[] pictures) {
-        this.pictures = pictures;
-    }
+  
+  @XmlElement(name = "picture")
+  private PictureSeedDto[] pictures;
+  
+  public PictureRootSeedDto() {
+  }
+  
+  public PictureSeedDto[] getPictures() {
+    return pictures;
+  }
+  
+  public void setPictures(PictureSeedDto[] pictures) {
+    this.pictures = pictures;
+  }
 }

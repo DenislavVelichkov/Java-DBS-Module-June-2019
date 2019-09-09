@@ -51,7 +51,7 @@ public class TeamServiceImpl implements TeamService {
         System.out.println("Invalid team!");
         this.validator.violations(teamDto)
             .forEach(violation -> System.out.println(violation.getMessage()));
-  
+        
         continue;
       }
       

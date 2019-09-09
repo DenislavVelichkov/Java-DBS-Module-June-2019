@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 import java.util.List;
 
 @Repository
-public interface PlayerRepository  extends JpaRepository<Player, Integer> {
-    
-    List<Player> findAllBySalaryGreaterThanOrderBySalaryDesc(BigDecimal salary);
+public interface PlayerRepository extends JpaRepository<Player, Integer> {
+  
+  List<Player> findAllBySalaryGreaterThanOrderBySalaryDesc(BigDecimal salary);
 }

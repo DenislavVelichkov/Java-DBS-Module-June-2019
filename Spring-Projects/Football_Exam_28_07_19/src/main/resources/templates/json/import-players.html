@@ -6,13 +6,14 @@
                     <h1>Import Players</h1>
                 </div>
                 <hr class="hr-background"/>
-                <form th:action="@{/import/players}" method="post">
+                <form method="post" th:action="@{/import/players}">
                     <div class="col-md-12 d-flex justify-content-center">
                         <label for="employees-textarea">Players:</label>
                     </div>
                     <div class="col-md-12 d-flex justify-content-center">
                         <div class="col-md-8 d-flex justify-content-center">
-                            <textarea class="form-control" id="employees-textarea" rows="10" th:text="${players}" name="players" readonly></textarea>
+                            <textarea class="form-control" id="employees-textarea" name="players" readonly
+                                      rows="10" th:text="${players}"></textarea>
                         </div>
                     </div>
                     <div class="col-md-12 d-flex justify-content-center">

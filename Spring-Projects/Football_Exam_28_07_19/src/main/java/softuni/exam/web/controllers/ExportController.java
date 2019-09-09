@@ -10,25 +10,25 @@ import softuni.exam.service.PlayerService;
 @Controller
 @RequestMapping("/export")
 public class ExportController extends BaseController {
-
-    private final PlayerService playerService;
-
-    @Autowired
-    public ExportController(PlayerService playerService) {
-        this.playerService = playerService;
-    }
-
-    @GetMapping("/players-with-salary-bigger")
-    public ModelAndView exportPlayerWithSalaryBiggerThan(){
-        String playersWithSalary = this.playerService.exportPlayersWhereSalaryBiggerThan();
-
-        return super.view("export/export-players-with-salary-bigger.html","playersWithSalaryBiggerThan", playersWithSalary);
-    }
-
-    @GetMapping("/team-players")
-    public ModelAndView exportPlayerInATeam(){
-        String playersInATeam = this.playerService.exportPlayersInATeam();
-
-        return super.view("export/export-team-players.html","playersInATeam", playersInATeam);
-    }
+  
+  private final PlayerService playerService;
+  
+  @Autowired
+  public ExportController(PlayerService playerService) {
+    this.playerService = playerService;
+  }
+  
+  @GetMapping("/players-with-salary-bigger")
+  public ModelAndView exportPlayerWithSalaryBiggerThan() {
+    String playersWithSalary = this.playerService.exportPlayersWhereSalaryBiggerThan();
+    
+    return super.view("export/export-players-with-salary-bigger.html", "playersWithSalaryBiggerThan", playersWithSalary);
+  }
+  
+  @GetMapping("/team-players")
+  public ModelAndView exportPlayerInATeam() {
+    String playersInATeam = this.playerService.exportPlayersInATeam();
+    
+    return super.view("export/export-team-players.html", "playersInATeam", playersInATeam);
+  }
 }
