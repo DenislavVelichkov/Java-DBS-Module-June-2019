@@ -1,0 +1,2 @@
+UPDATE clients
+WHERE `id`
